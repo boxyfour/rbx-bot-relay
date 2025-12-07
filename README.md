@@ -1,11 +1,10 @@
-# rbx-relay
+# rbx-bot-relay
 
 a discord bot for roblox
 
 ## features
 
 * can send global commands to roblox servers; the first server to receive the command will execute it.
-* has basic authentication
 
 A discord bot that's meant to be used with [rbx-relay](https://github.com/boxyfour/rbx-relay).
 
@@ -37,3 +36,7 @@ Now your http server is up and running! Check out the provided examples in src/c
 ### Issues
 
 If there are any issues you'd like to report, you can create an issue [here](https://github.com/boxyfour/rbx-bot-relay). Before doing that, though, please go through the common issues in the [web-server repository](https://github.com/boxyfour/rbx-relay/issues).
+
+# TODO:
+
+* add role authentication
