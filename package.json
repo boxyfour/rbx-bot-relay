@@ -1,0 +1,21 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "out/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "npm run build && node --env-file=.env out/index.js",
+    "deploy": "npm run build && node --env-file=.env out/bot/deploy_commands.js"
+  },
+  "dependencies": {
+    "@types/npm": "^7.19.3",
+    "@types/redis": "^4.0.10",
+    "discord.js": "^14.25.1",
+    "redis": "^5.10.0",
+    "uuid": "^13.0.0"
+  }
+}
