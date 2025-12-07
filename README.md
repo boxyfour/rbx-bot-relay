@@ -36,5 +36,4 @@ Now your http server is up and running! Check out the provided examples in src/c
 
 ### Issues
 
-If there are any issues you'd like to report, you can create an issue [here](https://github.com/boxyfour/rbx-relay/issues). Before doing that, though, please go through the common issues in the [web-server repository](https://github.com/boxyfour/rbx-relay/issues).
-
+If there are any issues you'd like to report, you can create an issue [here](https://github.com/boxyfour/rbx-bot-relay). Before doing that, though, please go through the common issues in the [web-server repository](https://github.com/boxyfour/rbx-relay/issues).
